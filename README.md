@@ -2,7 +2,12 @@
 
 
 #
-![](https://komarev.com/ghpvc/?username=AMIR-H-P&color=blue)
+<p align="center">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AMIR-H-P/Discord-Nuker">
+  <img alt="Followers" src="https://img.shields.io/github/followers/AMIR-H-P?style=social">
+  <img alt="Total Stars" src="https://img.shields.io/github/stars/AMIR-H-P?style=social">
+  <img src="https://komarev.com/ghpvc/?username=AMIR-H-P">
+</p>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AMIR-H-P&show_icons=true&theme=dark)
