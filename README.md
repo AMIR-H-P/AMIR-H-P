@@ -9,22 +9,35 @@
   <img src="https://komarev.com/ghpvc/?username=AMIR-H-P">
 </p>
 
+<br/>
+<p align="left">
+  <a href="">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AMIR-H-P&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AMIR-H-P&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AMIR-H-P&show_icons=true&theme=dark)
 
+<br/>
+<p align="left">
+  <a href="">
+  <img width="27.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMIR-H-P&layout=Demo)](https://github.com/AMIR-H-P/AMIR-H-P" />
+    <img width="50.5%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AMIR-H-P&repo=Discord-Nuker" />
+  </a>
+</p>
+<br>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMIR-H-P&layout=Demo)](https://github.com/AMIR-H-P/AMIR-H-P)
 
 #
-<a href="https://github.com/AMIR-H-P/Discord-Nuker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AMIR-H-P&repo=Discord-Nuker" />
-</a>
 
-#
+<br/>
+<p align="left">
+  <a href="https://discord.gg/iranian">
+  <img width="39.3%" src="https://discord.c99.nl/widget/theme-3/700396619564056646.png" />
+    <img width="34%" arget="_blank" src="https://discordapp.com/api/guilds/967103945770160188/widget.png?style=banner2" alt="POWER"/>
+  </a>
+</p>
+<br>
 
-<a href="https://discord.gg/iranian" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/700396619564056646.png"/></a>
-
-
-<a href="https://discord.gg/iranian" target="_blank"><img src="https://discordapp.com/api/guilds/967103945770160188/widget.png?style=banner2" alt="POWER"/></a>
 
