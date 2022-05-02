@@ -26,5 +26,5 @@
 <a href="https://discord.gg/iranian" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/700396619564056646.png"/></a>
 
 
-<a href="https://discord.gg/iranian" target="_blank"><img src="https://discordapp.com/api/guilds/967103945770160188/widget.png?style=banner4" alt="POWER"/></a>
+<a href="https://discord.gg/iranian" target="_blank"><img src="https://discordapp.com/api/guilds/967103945770160188/widget.png?style=banner2" alt="POWER"/></a>
 
