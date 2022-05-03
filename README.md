@@ -20,14 +20,8 @@
 <br>
 
 
-<br/>
-<p align="left">
-  <a href="">
-  <img width="27.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMIR-H-P&layout=Demo)](https://github.com/AMIR-H-P/AMIR-H-P" />
-    <img width="50.5%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AMIR-H-P&repo=Discord-Nuker" />
-  </a>
-</p>
-<br>
+
+![status](https://github-readme-stats.vercel.app/api/top-langs/?username=AMIR-H-P&layout=Demo)
 
 
 #
