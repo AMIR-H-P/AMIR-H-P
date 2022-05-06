@@ -10,16 +10,11 @@
   <a href="https://discord.gg/iranian" target="_blank"> <img src="https://discordapp.com/api/guilds/967103945770160188/widget.png?style=shield" alt="shield.png"></a>
 </p>
 
-<br/>
-<p align="left">
-  <a href="">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AMIR-H-P&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AMIR-H-P&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
 
 
+![status](https://github-readme-stats.vercel.app/api?username=AMIR-H-P&show_icons=true&theme=gruvbox&hide_border=true)
+ٍ
+![status](https://github-readme-streak-stats.herokuapp.com/?user=AMIR-H-P&theme=gruvbox&hide_border=true)
 
 ![status](https://github-readme-stats.vercel.app/api/top-langs/?username=AMIR-H-P&layout=Demo)
 
