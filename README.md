@@ -12,22 +12,29 @@
 
 
 
-![status](https://github-readme-stats.vercel.app/api?username=AMIR-H-P&show_icons=true&theme=gruvbox&hide_border=true)
-ٍ
-![status](https://github-readme-streak-stats.herokuapp.com/?user=AMIR-H-P&theme=gruvbox&hide_border=true)
 
-![status](https://github-readme-stats.vercel.app/api/top-langs/?username=AMIR-H-P&layout=Demo)
-
-
-#
-
-<br/>
-<p align="left">
-  <a href="https://discord.gg/iranian">
-  <img width="39.3%" src="https://discord.c99.nl/widget/theme-3/700396619564056646.png" />
-    <img width="34%" arget="_blank" src="https://discordapp.com/api/guilds/967103945770160188/widget.png?style=banner2" alt="POWER"/>
-  </a>
+<p align="center">
+    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=AMIR-H-P&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
-<br>
+    
+---
 
+<p align="center">
+        <img title="h" alt="#streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=AMIR-H-P&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+</p>
 
+<p align="center">
+   <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AMIR-H-P&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</p>
+    
+---
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=AMIRHP&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></p>
+
+---
+
+<p align="center">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMIR-H-P&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
+
+---
