@@ -29,9 +29,6 @@
     
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=AMIRHP&layout=compact&theme=react&hide_border=true&bg_color=0D1117"></p>
-
----
 
 <p align="center">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMIR-H-P&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
