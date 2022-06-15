@@ -10,11 +10,10 @@
   <a href="https://discord.gg/iranian" target="_blank"> <img src="https://discordapp.com/api/guilds/967103945770160188/widget.png?style=shield" alt="shield.png"></a>
 </p>
 
-
-
+---
 
 <p align="center">
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=AMIR-H-P&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/AMIR-H-P"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&lines=Welcome+to+AMIR13+Profile;Discord+Python+Devloper;Code+%3D+Love"></a>
 </p>
     
 ---
