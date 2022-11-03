@@ -6,7 +6,7 @@
   <img alt="Total Stars" src="https://img.shields.io/github/stars/AMIR-H-P?style=social">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AMIR-H-P/Discord-Nuker">
   <img src="https://komarev.com/ghpvc/?username=AMIR-H-P">
-  <a href="https://discord.gg/iranian" target="_blank"> <img src="https://discordapp.com/api/guilds/942519172213141556/widget.png?style=shield" alt="shield.png"></a>
+  <a href="https://discord.gg/y2K9Ys65Jm" target="_blank"> <img src="https://discordapp.com/api/guilds/942519172213141556/widget.png?style=shield" alt="shield.png"></a>
 </p>
 
 ---
